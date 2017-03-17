@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle: Convert line to console",
+        "command": "line_to_console"
+    },
+]
